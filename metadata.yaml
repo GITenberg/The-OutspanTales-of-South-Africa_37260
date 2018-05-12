@@ -1,0 +1,32 @@
+_repo: The-OutspanTales-of-South-Africa_37260
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fitzpatrick, Percy
+    aliases:
+    - Fitzpatrick, James Percy, Sir
+    - Fitzpatrick, J. P.
+    birthdate: 1862
+    deathdate: 1931
+    gutenberg_agent_id: '6749'
+    url: http://www.gutenberg.org/2009/agents/6749
+description: ''
+gutenberg_issued: '2011-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37260'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South Africa -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PR'
+tableOfContents: 'The outspan -- Soltké: An Incident of the Delagoa Road -- Induna
+  Nairn -- Cassidy -- The pool -- Two Christmas days.'
+title: 'The Outspan: Tales of South Africa'
+url: http://www.gutenberg.org/ebooks/37260
